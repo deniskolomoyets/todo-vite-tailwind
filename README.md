@@ -6,8 +6,8 @@
 -Tailwind
 -React
 
-<img src="https://github.com/deniskolomoyets/todo-vite-tailwind/blob/main/src/screen/react.svg" alt="React-logo" title="logo" align="left" height="30" />
+<p align="center"><img src="https://github.com/deniskolomoyets/todo-vite-tailwind/blob/main/src/screen/vite.svg" alt="Vite-logo" title="logo" align="left" height="30" />Vite</p>
 
-<img src="https://github.com/deniskolomoyets/todo-vite-tailwind/blob/main/src/screen/tailwindcss.svg" alt="Tailwind-logo" title="logo" align="left" height="30" />
+<p align="center"><img src="https://github.com/deniskolomoyets/todo-vite-tailwind/blob/main/src/screen/tailwindcss.svg" alt="Tailwind-logo" title="logo" align="left" height="30" />Tailwind</p>
 
-<img src="https://github.com/deniskolomoyets/todo-vite-tailwind/blob/main/src/screen/react.svg" alt="React-logo" title="logo" align="left" height="30" />
+<p align="center"><img src="https://github.com/deniskolomoyets/todo-vite-tailwind/blob/main/src/screen/tailwindcss.svg" alt="Tailwind-logo" title="logo" align="left" height="30" />Tailwind</p>
